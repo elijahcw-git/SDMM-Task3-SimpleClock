@@ -2,7 +2,7 @@
 ### A simple digital clock
 #### Styling has been limited intentionally, this project was to develop basic JS/HTML DOM manipulation skills
 
-
+You can view the clock [here](https://elijahcw-git.github.io/SDMM-Task3-SimpleClock/)
 
 
 ![Clock Image](Clock.png)
