@@ -21,7 +21,6 @@ function digitalClock(){
    
     dateDisplay.textContent = `${weekdays[weekDay]}, ${months[month]} ${day}${suffix}, ${year}`;
     timeDisplay.textContent = `${hours}:${minutes}:${seconds} ${meridian}`
-
 }
 
 function getSuffix(day){
